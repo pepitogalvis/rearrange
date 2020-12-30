@@ -15,3 +15,5 @@ Turns "LastName, FirstName" into "FirstName LastName".
 
  This script will print "Everything ok" if all check pass,
  or the coresponding error messages if some check fail.
+
+Quiero que esto cierre el issue #1
